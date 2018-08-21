@@ -71,6 +71,7 @@ LOCAL_SRC_FILES:= \
     IEffectClient.cpp \
     AudioEffect.cpp \
     Visualizer.cpp \
+    mtkaudio_stubs.cpp \
     MemoryLeakTrackUtil.cpp \
     StringArray.cpp \
     AudioPolicy.cpp
